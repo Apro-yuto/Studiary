@@ -4,6 +4,7 @@ module.exports = {
   webpack: {
     alias: {
       '@': path.resolve(__dirname, 'src/'),
+      'firebase': path.resolve(__dirname, 'src/utils/firebase.js'),
     }
   }
 }

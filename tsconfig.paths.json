@@ -5,6 +5,9 @@
       "@/*": [
         "./src/*"
       ],
+      "firebase": [
+        "./src/utils/firebase.js"
+      ],
     }
   }
 }
